@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi — I'm Patryk 👋
 
-<!--
-**patryksnk2/patryksnk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Database developer working with **Oracle, SQL and PL/SQL**, focused on performance, execution plans and clean data logic.  
+I also build **Java/Spring Boot** backend services with proper testing and database integration.
 
-Here are some ideas to get you started:
+## Tech
+- Java, Spring Boot  
+- Oracle, PL/SQL, PostgreSQL  
+- JUnit 5, AssertJ, Testcontainers  
+- Flyway  
+- Docker  
+- Git, GitHub Actions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Project
+**:contentReference[oaicite:0]{index=0}**  
+Backend pipeline simulator showing validation, transformation, retries, and database persistence with migrations and integration tests.
+
+## Contact
+- https://linktr.ee/patryksnk  
+- https://www.linkedin.com/in/patryk-czerski-84b36b378/  
+- patrykk.czerski@gmail.com
