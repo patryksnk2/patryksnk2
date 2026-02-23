@@ -1,21 +1,28 @@
 # Hi — I'm Patryk 👋
 
-I design reliable data systems and production-ready Java backends. My day-to-day is Oracle, SQL and PL/SQL (query tuning, execution plans, relational modeling); I also build Spring Boot services with clear layering, testable code and containerized integration tests.
+Data Analyst / ETL Developer working daily with Oracle, SQL and PL/SQL — writing and optimizing complex queries, analyzing execution plans and implementing maintainable ETL logic.  
+I also build Java/Spring Boot backend services with layered architecture, database integration and automated tests.
 
 ## Tech snapshot
-Java • Spring Boot • Gradle/Maven • Oracle / PL/SQL • PostgreSQL • JUnit5 / AssertJ • Testcontainers • Flyway • Docker • GitHub Actions
+Oracle • SQL • PL/SQL • ETL logic  
+Java • Spring Boot  
+PostgreSQL • Flyway  
+JUnit 5 • AssertJ • Testcontainers  
+Docker • Git • GitHub Actions
 
 ## Featured project
-**Resilient Data Pipeline Simulator** — a compact simulator demonstrating production patterns for data processing: ingest → validate → enrich → transform → persist. Emphasis on reliable flow, migration-driven schema changes and reproducible integration tests, useful as a single-example walkthrough of backend + data concerns.
+**Resilient Data Pipeline Simulator** — Java/Spring Boot backend implementing a full data flow (ingest → validate → transform → persist) with migration-based schema management and integration tests against a real database.
 
 ## Other notable projects
-- **task_manager_app** — task management REST API with service layer, JPA/Hibernate persistence and basic auth/authorization; shows API design and transactional handling.  
-- **github-api-task** — Spring Boot consumer for GitHub API: collects non-fork repositories with branch and commit metadata; includes integration-test patterns.
+- **task_manager_app** — REST API with service layer, transactional persistence (JPA/Hibernate) and basic auth/authorization.  
+- **github-api-task** — integration with external API, response mapping and tested integration layer.
 
-## What I bring
-- pragmatic, production-minded solutions: clear domain boundaries and maintainable modules  
-- strong DB-first thinking: performance-aware SQL and deterministic migrations  
-- test-first approach: unit + integration tests that serve as living documentation
+## Focus
+- daily SQL development and performance tuning  
+- execution plan analysis and indexing strategies  
+- clear, maintainable ETL transformations in PL/SQL  
+- backend services with proper layering and database access  
+- integration testing with a real database (Testcontainers)
 
 ## Contact
 linktr.ee/patryksnk • linkedin.com/in/patryk-czerski-84b36b378 • patrykk.czerski@gmail.com
