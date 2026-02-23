@@ -10,8 +10,10 @@ PostgreSQL • Flyway
 JUnit 5 • AssertJ • Testcontainers  
 Docker • Git • GitHub Actions
 
-## Featured project
-**Resilient Data Pipeline Simulator** — Java/Spring Boot backend implementing a full data flow (ingest → validate → transform → persist) with migration-based schema management and integration tests against a real database.
+## Currently working on
+**Resilient Data Pipeline Simulator**  
+Java/Spring Boot backend implementing a full data flow: ingest → validate → enrich → transform → persist.  
+Focus on reliable processing, clear transformation logic and integration tests against a real database.
 
 ## Other notable projects
 - **task_manager_app** — REST API with service layer, transactional persistence (JPA/Hibernate) and basic auth/authorization.  
