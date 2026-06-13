@@ -22,6 +22,7 @@ Focus on reliable processing, clear transformation logic and integration tests a
 
 - **[task_manager_app](https://github.com/patryksnk2/task_manager_app)** — REST API with service layer, transactional persistence (JPA/Hibernate) and basic auth/authorization.
 - **[github-api-task](https://github.com/patryksnk2/github-api-task)** — integration with external API, response mapping and tested integration layer.
+- **[fitness-tracker](https://github.com/patryksnk2/fitness-tracker)** — React + Firebase SPA for tracking nutrition, workouts and body weight. Includes BMR/TDEE calculator, macro tracking and interactive charts. Bachelor's thesis project.
 
 ## Focus
 
