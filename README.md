@@ -8,9 +8,9 @@ Currently focused on Java/Spring Boot services and daily Oracle/SQL development.
 | Area | Tools |
 |---|---|
 | Databases | Oracle • PostgreSQL • PL/SQL |
-| Backend | Java • Spring Boot • Flyway |
+| Backend | Java • Spring Boot|
 | Testing | JUnit 5 • AssertJ • Testcontainers |
-| DevOps | Docker • Git • GitHub Actions |
+| DevOps | Docker • Git |
 
 ## Currently working on
 
